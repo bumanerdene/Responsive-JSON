@@ -1,0 +1,10 @@
+[{
+	"context": "First picture's content",
+	"picturepath": "first.png"
+}, {
+	"context": "Second picture's content",
+	"picturepath": "second.png"
+}, {
+	"context": "Third picture's content",
+	"picturepath": "third.png"
+}]
